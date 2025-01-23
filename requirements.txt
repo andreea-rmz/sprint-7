@@ -2,5 +2,6 @@ pandas==1.5.3
 scipy==1.10.0
 streamlit==1.12.2
 numpy==1.26.4 --only-binary=:all:
+altair==4.2.0
 streamlit
 
